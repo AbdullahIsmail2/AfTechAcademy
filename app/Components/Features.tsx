@@ -17,7 +17,7 @@ export function Features() {
 				<div className="flex flex-col gap-5 items-center md:flex-row md:gap-10 flex-1 ">
 					<div className="flex flex-col lg:gap-1 xl:gap-6 text-center md:w-1/2 md:text-left md:pl-3 xl:pl-12 2xl:pl-16 triplexl:pl-24  ">
 						<h6 className="text-3xl sm:text-4xl font-black font-sans tracking-tight text-type-90 relative">
-							Master IT Fundementals
+							Master IT Fundamentals
 						</h6>
 						<p className="mt-4 font-serif leading-relaxed text-type-700 text-base sm:text-lg max-w-[600px]">
 							Our course covers the essential IT knowledge you need to excel in
