@@ -9,7 +9,6 @@ export default function Home() {
 		<div className="relative pb-64">
 			<Hero />
 			<Features />
-			<Testimonial />
 			<CallToAction />
 			<Footer />
 		</div>
