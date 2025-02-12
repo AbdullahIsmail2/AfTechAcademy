@@ -2,7 +2,7 @@ import React from "react";
 
 export default function page() {
   return (
-    <div className="w-[90%] max-w-6xl mx-auto ">
+    <div className="w-[90%] max-w-6xl mx-auto pb-20">
       <h1 className="text-3xl font-black font-sans text-balance tracking-tight sm:text-4xl xl:text-6xl text-center mt-20 mb-16">
         IT Market In 2025
       </h1>

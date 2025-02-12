@@ -2,7 +2,7 @@ import React from "react";
 
 export default function BlogOne() {
   return (
-    <div className="w-[90%] max-w-6xl mx-auto ">
+    <div className="w-[90%] max-w-6xl mx-auto pb-20 ">
       <h1 className="text-3xl font-black font-sans text-balance tracking-tight sm:text-4xl xl:text-6xl text-center mt-20 mb-16">
         Essential IT Skills for Beginners in 2025
       </h1>
@@ -15,7 +15,7 @@ export default function BlogOne() {
           AI, cybersecurity, and cloud computing. Here are the essential skills
           that can set you apart:
         </p>
-        <ul className="flex flex-col gap-4 list-disc pl-10">
+        <ul className="flex flex-col gap-4 list-disc pl-6 sm:pl-10">
           <li>
             <p className="font-bold">
               Technical Proficiency:{" "}
