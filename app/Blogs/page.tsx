@@ -12,7 +12,7 @@ export default function Blogs() {
       {blogs.map((blog) => (
         <Link href={blog.link} key={blog.id}>
           <div className="mb-10 border-solid border-2 p-10 border-black rounded-xl max-w-6xl mx-auto w-[90%] cursor-pointer">
-            <div className="flex justify-between items-center">
+            <div className="flex flex-col sm:flex-row justify-between gap-2 sm:gap-0 sm:items-center">
               <h2 className="text-2xl font-bold">{blog.title}</h2>
               <p className="text-sm">{blog.minutesToRead} minutes to read</p>
             </div>
