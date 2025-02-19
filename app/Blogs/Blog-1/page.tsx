@@ -28,31 +28,28 @@ export default function BlogOne() {
           </li>
           <li>
             <p className="font-bold">
-              Technical Proficiency:{" "}
+              Problem-Solving:{" "}
               <span className="font-normal">
-                Knowledge of programming languages like Python and JavaScript,
-                understanding of network configurations, and basics of
-                cybersecurity practices.
+                The ability to troubleshoot issues and come up with effective
+                solutions is crucial in fast-paced tech environments.
               </span>
             </p>
           </li>
           <li>
             <p className="font-bold">
-              Technical Proficiency:{" "}
+              Project Management:{" "}
               <span className="font-normal">
-                Knowledge of programming languages like Python and JavaScript,
-                understanding of network configurations, and basics of
-                cybersecurity practices.
+                Skills in managing projects and timelines, crucial for
+                delivering successful tech initiatives.
               </span>
             </p>
           </li>
           <li>
             <p className="font-bold">
-              Technical Proficiency:{" "}
+              Soft Skills:{" "}
               <span className="font-normal">
-                Knowledge of programming languages like Python and JavaScript,
-                understanding of network configurations, and basics of
-                cybersecurity practices.
+                Communication, teamwork, and adaptability to work effectively in
+                diverse teams.
               </span>
             </p>
           </li>
